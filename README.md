@@ -1,6 +1,7 @@
 # Target_shoot_game
 Target shoot game in Python using pygame
 
+![](images/Target shoot .JPG)
 
 1.Run the target_shoot.exe file 
 
