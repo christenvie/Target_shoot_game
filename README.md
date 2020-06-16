@@ -3,6 +3,12 @@ Target shoot game in Python using pygame
 
 ![](images/Target%20shoot%20.JPG)
 
+
+Requirements :
+
+python 3.8 
+pygame 
+
 1.Run the target_shoot.exe file 
 
 2. move the ship using the ship and down key
